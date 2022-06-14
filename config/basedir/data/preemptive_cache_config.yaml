@@ -1,0 +1,11 @@
+/:
+- _count: 3
+  _timestamp: 1655191216.848219
+  base_url: http://127.0.0.1:8080/
+  path: /
+  query_string: l10n=en
+- _count: 29
+  _timestamp: 1655191213.7897224
+  base_url: http://localhost:8080/
+  path: /
+  query_string: l10n=en
